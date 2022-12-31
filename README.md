@@ -1,1 +1,1 @@
-# A auiz application using HTML,CSS,JS
+# A quiz application using HTML,CSS,JS
